@@ -1,0 +1,402 @@
+insgesamt	m	w	RS	item	label	wd
+89504	44599	44905	1001	http://world.squirrel.link/ontology#district_01001	Flensburg	http://www.wikidata.org/entity/Q3798
+247548	120566	126982	1002	http://world.squirrel.link/ontology#district_01002	Kiel	http://www.wikidata.org/entity/Q1707
+217198	104371	112827	1003	http://world.squirrel.link/ontology#district_01003	Lübeck	http://www.wikidata.org/entity/Q2843
+79487	39241	40246	1004	http://world.squirrel.link/ontology#district_01004	Neumünster	http://www.wikidata.org/entity/Q3879
+133210	65720	67490	1051	http://world.squirrel.link/ontology#district_01051	Dithmarschen	http://www.wikidata.org/entity/Q2947
+197264	96881	100383	1053	http://world.squirrel.link/ontology#district_01053	Herzogtum Lauenburg	http://www.wikidata.org/entity/Q3000
+165507	81099	84408	1054	http://world.squirrel.link/ontology#district_01054	Nordfriesland	http://www.wikidata.org/entity/Q2937
+200581	96765	103816	1055	http://world.squirrel.link/ontology#district_01055	Ostholstein	http://www.wikidata.org/entity/Q2975
+314391	154211	160180	1056	http://world.squirrel.link/ontology#district_01056	Pinneberg	http://www.wikidata.org/entity/Q3006
+128647	62532	66115	1057	http://world.squirrel.link/ontology#district_01057	Plön	http://www.wikidata.org/entity/Q2970
+272775	134109	138666	1058	http://world.squirrel.link/ontology#district_01058	Rendsburg-Eckernförde	http://www.wikidata.org/entity/Q2967
+200025	99092	100933	1059	http://world.squirrel.link/ontology#district_01059	Schleswig-Flensburg	http://www.wikidata.org/entity/Q2941
+276032	136517	139515	1060	http://world.squirrel.link/ontology#district_01060	Segeberg	http://www.wikidata.org/entity/Q2980
+131347	64923	66424	1061	http://world.squirrel.link/ontology#district_01061	Steinburg	http://www.wikidata.org/entity/Q3011
+243196	118831	124365	1062	http://world.squirrel.link/ontology#district_01062	Stormarn	http://www.wikidata.org/entity/Q3003
+1841179	902048	939131	2000	http://world.squirrel.link/ontology#district_02000	Hamburg	http://www.wikidata.org/entity/Q1055
+248292	122985	125307	3101	http://world.squirrel.link/ontology#district_03101	Braunschweig	http://www.wikidata.org/entity/Q2773
+104948	52202	52746	3102	http://world.squirrel.link/ontology#district_03102	Salzgitter	http://www.wikidata.org/entity/Q3200
+124151	61820	62331	3103	http://world.squirrel.link/ontology#district_03103	Wolfsburg	http://www.wikidata.org/entity/Q3014
+175920	88035	87885	3151	http://world.squirrel.link/ontology#district_03151	Gifhorn	http://www.wikidata.org/entity/Q6053
+137014	67834	69180	3153	http://world.squirrel.link/ontology#district_03153	Goslar	http://www.wikidata.org/entity/Q6040
+91307	45241	46066	3154	http://world.squirrel.link/ontology#district_03154	Helmstedt	http://www.wikidata.org/entity/Q6047
+132765	65445	67320	3155	http://world.squirrel.link/ontology#district_03155	Northeim	http://www.wikidata.org/entity/Q6018
+133965	66286	67679	3157	http://world.squirrel.link/ontology#district_03157	Peine	http://www.wikidata.org/entity/Q6045
+119960	59370	60590	3158	http://world.squirrel.link/ontology#district_03158	Wolfenbüttel	http://www.wikidata.org/entity/Q6041
+328074	161187	166887	3159	http://world.squirrel.link/ontology#district_03159	Göttingen	http://www.wikidata.org/entity/Q6022
+1157624	567201	590423	3241	http://world.squirrel.link/ontology#district_03241	Region Hannover	http://www.wikidata.org/entity/Q5963
+216886	107853	109033	3251	http://world.squirrel.link/ontology#district_03251	Diepholz	http://www.wikidata.org/entity/Q5956
+148559	71840	76719	3252	http://world.squirrel.link/ontology#district_03252	Hameln-Pyrmont	http://www.wikidata.org/entity/Q5970
+276594	134912	141682	3254	http://world.squirrel.link/ontology#district_03254	Hildesheim	http://www.wikidata.org/entity/Q5978
+70975	35187	35788	3255	http://world.squirrel.link/ontology#district_03255	Holzminden	http://www.wikidata.org/entity/Q5973
+121386	60400	60986	3256	http://world.squirrel.link/ontology#district_03256	Nienburg/Weser	http://www.wikidata.org/entity/Q5958
+157781	77174	80607	3257	http://world.squirrel.link/ontology#district_03257	Schaumburg	http://www.wikidata.org/entity/Q5966
+178936	88054	90882	3351	http://world.squirrel.link/ontology#district_03351	Celle	http://www.wikidata.org/entity/Q5919
+198213	97044	101169	3352	http://world.squirrel.link/ontology#district_03352	Cuxhaven	http://www.wikidata.org/entity/Q5897
+252776	124502	128274	3353	http://world.squirrel.link/ontology#district_03353	Harburg	http://www.wikidata.org/entity/Q5907
+48424	23839	24585	3354	http://world.squirrel.link/ontology#district_03354	Lüchow-Dannenberg	http://www.wikidata.org/entity/Q5913
+183372	89543	93829	3355	http://world.squirrel.link/ontology#district_03355	Lüneburg	http://www.wikidata.org/entity/Q5910
+113517	55765	57752	3356	http://world.squirrel.link/ontology#district_03356	Osterholz	http://www.wikidata.org/entity/Q5926
+163455	82132	81323	3357	http://world.squirrel.link/ontology#district_03357	Rotenburg (Wümme)	http://www.wikidata.org/entity/Q5923
+139755	69757	69998	3358	http://world.squirrel.link/ontology#district_03358	Heidekreis	http://www.wikidata.org/entity/Q5922
+203102	101043	102059	3359	http://world.squirrel.link/ontology#district_03359	Stade	http://www.wikidata.org/entity/Q5906
+92572	45241	47331	3360	http://world.squirrel.link/ontology#district_03360	Uelzen	http://www.wikidata.org/entity/Q5915
+136792	67166	69626	3361	http://world.squirrel.link/ontology#district_03361	Verden	http://www.wikidata.org/entity/Q5927
+77607	38437	39170	3401	http://world.squirrel.link/ontology#district_03401	Delmenhorst	http://www.wikidata.org/entity/Q3907
+50195	25084	25111	3402	http://world.squirrel.link/ontology#district_03402	Emden	http://www.wikidata.org/entity/Q4174
+168210	80501	87709	3403	http://world.squirrel.link/ontology#district_03403	Oldenburg (Oldb)	http://www.wikidata.org/entity/Q2936
+164748	79756	84992	3404	http://world.squirrel.link/ontology#district_03404	Osnabrück	http://www.wikidata.org/entity/Q2916
+76278	37596	38682	3405	http://world.squirrel.link/ontology#district_03405	Wilhelmshaven	http://www.wikidata.org/entity/Q3857
+124071	60658	63413	3451	http://world.squirrel.link/ontology#district_03451	Ammerland	http://www.wikidata.org/entity/Q5947
+189848	93555	96293	3452	http://world.squirrel.link/ontology#district_03452	Aurich	http://www.wikidata.org/entity/Q5929
+169348	85707	83641	3453	http://world.squirrel.link/ontology#district_03453	Cloppenburg	http://www.wikidata.org/entity/Q5945
+325657	165784	159873	3454	http://world.squirrel.link/ontology#district_03454	Emsland	http://www.wikidata.org/entity/Q5936
+98460	48064	50396	3455	http://world.squirrel.link/ontology#district_03455	Friesland	http://www.wikidata.org/entity/Q5932
+136511	68305	68206	3456	http://world.squirrel.link/ontology#district_03456	Grafschaft Bentheim	http://www.wikidata.org/entity/Q5939
+169809	84810	84999	3457	http://world.squirrel.link/ontology#district_03457	Leer	http://www.wikidata.org/entity/Q5934
+130144	64574	65570	3458	http://world.squirrel.link/ontology#district_03458	Oldenburg	http://www.wikidata.org/entity/Q5952
+357343	177430	179913	3459	http://world.squirrel.link/ontology#district_03459	Osnabrück	http://www.wikidata.org/entity/Q5940
+141598	71595	70003	3460	http://world.squirrel.link/ontology#district_03460	Vechta	http://www.wikidata.org/entity/Q5941
+88624	44410	44214	3461	http://world.squirrel.link/ontology#district_03461	Wesermarsch	http://www.wikidata.org/entity/Q5948
+56882	27919	28963	3462	http://world.squirrel.link/ontology#district_03462	Wittmund	http://www.wikidata.org/entity/Q5931
+569352	281336	288016	4011	http://world.squirrel.link/ontology#district_04011	Bremen	http://www.wikidata.org/entity/Q24879
+113634	56699	56935	4012	http://world.squirrel.link/ontology#district_04012	Bremerhaven	http://www.wikidata.org/entity/Q2706
+619294	299315	319979	5111	http://world.squirrel.link/ontology#district_05111	Düsseldorf	http://www.wikidata.org/entity/Q1718
+498590	246588	252002	5112	http://world.squirrel.link/ontology#district_05112	Duisburg	http://www.wikidata.org/entity/Q2100
+583109	283005	300104	5113	http://world.squirrel.link/ontology#district_05113	Essen	http://www.wikidata.org/entity/Q2066
+227020	110745	116275	5114	http://world.squirrel.link/ontology#district_05114	Krefeld	http://www.wikidata.org/entity/Q2805
+261454	128655	132799	5116	http://world.squirrel.link/ontology#district_05116	Mönchengladbach	http://www.wikidata.org/entity/Q2758
+170880	82387	88493	5117	http://world.squirrel.link/ontology#district_05117	Mülheim an der Ruhr	http://www.wikidata.org/entity/Q2899
+210829	103612	107217	5119	http://world.squirrel.link/ontology#district_05119	Oberhausen	http://www.wikidata.org/entity/Q2838
+110994	54664	56330	5120	http://world.squirrel.link/ontology#district_05120	Remscheid	http://www.wikidata.org/entity/Q3097
+159360	77471	81889	5122	http://world.squirrel.link/ontology#district_05122	Solingen	http://www.wikidata.org/entity/Q2942
+354382	173687	180695	5124	http://world.squirrel.link/ontology#district_05124	Wuppertal	http://www.wikidata.org/entity/Q2107
+310974	154628	156346	5154	http://world.squirrel.link/ontology#district_05154	Kleve	http://www.wikidata.org/entity/Q6246
+485684	234705	250979	5158	http://world.squirrel.link/ontology#district_05158	Mettmann	http://www.wikidata.org/entity/Q6257
+451007	219214	231793	5162	http://world.squirrel.link/ontology#district_05162	Rhein-Kreis Neuss	http://www.wikidata.org/entity/Q6253
+298935	145913	153022	5166	http://world.squirrel.link/ontology#district_05166	Viersen	http://www.wikidata.org/entity/Q6249
+459809	224137	235672	5170	http://world.squirrel.link/ontology#district_05170	Wesel	http://www.wikidata.org/entity/Q6245
+327258	156328	170930	5314	http://world.squirrel.link/ontology#district_05314	Bonn	http://www.wikidata.org/entity/Q586
+1085664	529368	556296	5315	http://world.squirrel.link/ontology#district_05315	Köln	http://www.wikidata.org/entity/Q365
+163838	79787	84051	5316	http://world.squirrel.link/ontology#district_05316	Leverkusen	http://www.wikidata.org/entity/Q2938
+555465	280162	275303	5334	http://world.squirrel.link/ontology#district_05334	Städteregion Aachen	http://www.wikidata.org/entity/Q6272
+263722	130761	132961	5358	http://world.squirrel.link/ontology#district_05358	Düren	http://www.wikidata.org/entity/Q6275
+470089	230062	240027	5362	http://world.squirrel.link/ontology#district_05362	Rhein-Erft-Kreis	http://www.wikidata.org/entity/Q6292
+192840	95124	97716	5366	http://world.squirrel.link/ontology#district_05366	Euskirchen	http://www.wikidata.org/entity/Q6280
+254322	125849	128473	5370	http://world.squirrel.link/ontology#district_05370	Heinsberg	http://www.wikidata.org/entity/Q6264
+272471	134069	138402	5374	http://world.squirrel.link/ontology#district_05374	Oberbergischer Kreis	http://www.wikidata.org/entity/Q6298
+283455	137572	145883	5378	http://world.squirrel.link/ontology#district_05378	Rheinisch-Bergischer Kreis	http://www.wikidata.org/entity/Q6295
+599780	294093	305687	5382	http://world.squirrel.link/ontology#district_05382	Rhein-Sieg-Kreis	http://www.wikidata.org/entity/Q6287
+117383	57101	60282	5512	http://world.squirrel.link/ontology#district_05512	Bottrop	http://www.wikidata.org/entity/Q3069
+260654	129778	130876	5513	http://world.squirrel.link/ontology#district_05513	Gelsenkirchen	http://www.wikidata.org/entity/Q2765
+314319	150836	163483	5515	http://world.squirrel.link/ontology#district_05515	Münster	http://www.wikidata.org/entity/Q2742
+370676	185195	185481	5554	http://world.squirrel.link/ontology#district_05554	Borken	http://www.wikidata.org/entity/Q6191
+219929	108564	111365	5558	http://world.squirrel.link/ontology#district_05558	Coesfeld	http://www.wikidata.org/entity/Q6210
+615261	300019	315242	5562	http://world.squirrel.link/ontology#district_05562	Recklinghausen	http://www.wikidata.org/entity/Q6214
+447614	222633	224981	5566	http://world.squirrel.link/ontology#district_05566	Steinfurt	http://www.wikidata.org/entity/Q6187
+277783	137298	140485	5570	http://world.squirrel.link/ontology#district_05570	Warendorf	http://www.wikidata.org/entity/Q2839
+333786	161078	172708	5711	http://world.squirrel.link/ontology#district_05711	Bielefeld	http://www.wikidata.org/entity/Q2112
+364083	181844	182239	5754	http://world.squirrel.link/ontology#district_05754	Gütersloh	http://www.wikidata.org/entity/Q6218
+250783	122959	127824	5758	http://world.squirrel.link/ontology#district_05758	Herford	http://www.wikidata.org/entity/Q6234
+140667	70059	70608	5762	http://world.squirrel.link/ontology#district_05762	Höxter	http://www.wikidata.org/entity/Q6228
+348391	170965	177426	5766	http://world.squirrel.link/ontology#district_05766	Lippe	http://www.wikidata.org/entity/Q6230
+310710	153305	157405	5770	http://world.squirrel.link/ontology#district_05770	Minden-Lübbecke	http://www.wikidata.org/entity/Q6239
+306890	153622	153268	5774	http://world.squirrel.link/ontology#district_05774	Paderborn	http://www.wikidata.org/entity/Q6224
+364628	177699	186929	5911	http://world.squirrel.link/ontology#district_05911	Bochum	http://www.wikidata.org/entity/Q2103
+587010	288386	298624	5913	http://world.squirrel.link/ontology#district_05913	Dortmund	http://www.wikidata.org/entity/Q1295
+188814	92168	96646	5914	http://world.squirrel.link/ontology#district_05914	Hagen	http://www.wikidata.org/entity/Q2871
+179111	88024	91087	5915	http://world.squirrel.link/ontology#district_05915	Hamm	http://www.wikidata.org/entity/Q2880
+156374	76649	79725	5916	http://world.squirrel.link/ontology#district_05916	Herne	http://www.wikidata.org/entity/Q2904
+324296	157490	166806	5954	http://world.squirrel.link/ontology#district_05954	Ennepe-Ruhr-Kreis	http://www.wikidata.org/entity/Q11280
+260475	129947	130528	5958	http://world.squirrel.link/ontology#district_05958	Hochsauerlandkreis	http://www.wikidata.org/entity/Q5946
+412120	202817	209303	5962	http://world.squirrel.link/ontology#district_05962	Märkischer Kreis	http://www.wikidata.org/entity/Q5937
+134775	67610	67165	5966	http://world.squirrel.link/ontology#district_05966	Olpe	http://www.wikidata.org/entity/Q5953
+278210	138358	139852	5970	http://world.squirrel.link/ontology#district_05970	Siegen-Wittgenstein	http://www.wikidata.org/entity/Q5982
+301902	150022	151880	5974	http://world.squirrel.link/ontology#district_05974	Soest	http://www.wikidata.org/entity/Q5965
+394782	192304	202478	5978	http://world.squirrel.link/ontology#district_05978	Unna	http://www.wikidata.org/entity/Q6163
+159207	81217	77990	6411	http://world.squirrel.link/ontology#district_06411	Darmstadt	http://www.wikidata.org/entity/Q2973
+753056	371671	381385	6412	http://world.squirrel.link/ontology#district_06412	Frankfurt am Main	http://www.wikidata.org/entity/Q1794
+128744	63699	65045	6413	http://world.squirrel.link/ontology#district_06413	Offenbach am Main	http://www.wikidata.org/entity/Q3042
+278342	132943	145399	6414	http://world.squirrel.link/ontology#district_06414	Wiesbaden	http://www.wikidata.org/entity/Q1721
+269694	133318	136376	6431	http://world.squirrel.link/ontology#district_06431	Bergstraße	http://www.wikidata.org/entity/Q7917
+297399	147786	149613	6432	http://world.squirrel.link/ontology#district_06432	Darmstadt-Dieburg	http://www.wikidata.org/entity/Q7916
+274526	137325	137201	6433	http://world.squirrel.link/ontology#district_06433	Groß-Gerau	http://www.wikidata.org/entity/Q7914
+236564	114878	121686	6434	http://world.squirrel.link/ontology#district_06434	Hochtaunuskreis	http://www.wikidata.org/entity/Q7908
+418950	206555	212395	6435	http://world.squirrel.link/ontology#district_06435	Main-Kinzig-Kreis	http://www.wikidata.org/entity/Q7911
+237735	116332	121403	6436	http://world.squirrel.link/ontology#district_06436	Main-Taunus-Kreis	http://www.wikidata.org/entity/Q7909
+96798	47875	48923	6437	http://world.squirrel.link/ontology#district_06437	Odenwaldkreis	http://www.wikidata.org/entity/Q7919
+354092	174417	179675	6438	http://world.squirrel.link/ontology#district_06438	Offenbach	http://www.wikidata.org/entity/Q7912
+187157	91962	95195	6439	http://world.squirrel.link/ontology#district_06439	Rheingau-Taunus-Kreis	http://www.wikidata.org/entity/Q7907
+306460	151276	155184	6440	http://world.squirrel.link/ontology#district_06440	Wetteraukreis	http://www.wikidata.org/entity/Q7910
+268876	132135	136741	6531	http://world.squirrel.link/ontology#district_06531	Gießen	http://www.wikidata.org/entity/Q7904
+253777	125090	128687	6532	http://world.squirrel.link/ontology#district_06532	Lahn-Dill-Kreis	http://www.wikidata.org/entity/Q7905
+172083	85571	86512	6533	http://world.squirrel.link/ontology#district_06533	Limburg-Weilburg	http://www.wikidata.org/entity/Q7906
+246648	121414	125234	6534	http://world.squirrel.link/ontology#district_06534	Marburg-Biedenkopf	http://www.wikidata.org/entity/Q7902
+105878	52992	52886	6535	http://world.squirrel.link/ontology#district_06535	Vogelsbergkreis	http://www.wikidata.org/entity/Q7901
+201585	99007	102578	6611	http://world.squirrel.link/ontology#district_06611	Kassel	http://www.wikidata.org/entity/Q2865
+222584	110592	111992	6631	http://world.squirrel.link/ontology#district_06631	Fulda	http://www.wikidata.org/entity/Q7899
+120829	60523	60306	6632	http://world.squirrel.link/ontology#district_06632	Hersfeld-Rotenburg	http://www.wikidata.org/entity/Q7898
+236633	116122	120511	6633	http://world.squirrel.link/ontology#district_06633	Kassel	http://www.wikidata.org/entity/Q7890
+180222	90181	90041	6634	http://world.squirrel.link/ontology#district_06634	Schwalm-Eder-Kreis	http://www.wikidata.org/entity/Q7894
+156953	78198	78755	6635	http://world.squirrel.link/ontology#district_06635	Waldeck-Frankenberg	http://www.wikidata.org/entity/Q7893
+101017	49965	51052	6636	http://world.squirrel.link/ontology#district_06636	Werra-Meißner-Kreis	http://www.wikidata.org/entity/Q7896
+114024	55628	58396	7111	http://world.squirrel.link/ontology#district_07111	Koblenz	http://www.wikidata.org/entity/Q3104
+129727	63755	65972	7131	http://world.squirrel.link/ontology#district_07131	Ahrweiler	http://www.wikidata.org/entity/Q8596
+128705	63859	64846	7132	http://world.squirrel.link/ontology#district_07132	Altenkirchen (Westerwald)	http://www.wikidata.org/entity/Q8608
+158080	77185	80895	7133	http://world.squirrel.link/ontology#district_07133	Bad Kreuznach	http://www.wikidata.org/entity/Q8572
+80720	40021	40699	7134	http://world.squirrel.link/ontology#district_07134	Birkenfeld	http://www.wikidata.org/entity/Q8575
+61587	30841	30746	7135	http://world.squirrel.link/ontology#district_07135	Cochem-Zell	http://www.wikidata.org/entity/Q8590
+214259	105746	108513	7137	http://world.squirrel.link/ontology#district_07137	Mayen-Koblenz	http://www.wikidata.org/entity/Q8593
+181941	89488	92453	7138	http://world.squirrel.link/ontology#district_07138	Neuwied	http://www.wikidata.org/entity/Q8606
+102937	51206	51731	7140	http://world.squirrel.link/ontology#district_07140	Rhein-Hunsrück-Kreis	http://www.wikidata.org/entity/Q8574
+122308	60525	61783	7141	http://world.squirrel.link/ontology#district_07141	Rhein-Lahn-Kreis	http://www.wikidata.org/entity/Q8601
+201597	100218	101379	7143	http://world.squirrel.link/ontology#district_07143	Westerwaldkreis	http://www.wikidata.org/entity/Q8602
+110636	54444	56192	7211	http://world.squirrel.link/ontology#district_07211	Trier	http://www.wikidata.org/entity/Q3138
+112262	56124	56138	7231	http://world.squirrel.link/ontology#district_07231	Bernkastel-Wittlich	http://www.wikidata.org/entity/Q8585
+98561	49576	48985	7232	http://world.squirrel.link/ontology#district_07232	Eifelkreis Bitburg-Prüm	http://www.wikidata.org/entity/Q8580
+60603	30427	30176	7233	http://world.squirrel.link/ontology#district_07233	Vulkaneifel	http://www.wikidata.org/entity/Q8583
+148945	73673	75272	7235	http://world.squirrel.link/ontology#district_07235	Trier-Saarburg	http://www.wikidata.org/entity/Q8579
+48561	23489	25072	7311	http://world.squirrel.link/ontology#district_07311	Frankenthal (Pfalz)	http://www.wikidata.org/entity/Q6905
+99845	50353	49492	7312	http://world.squirrel.link/ontology#district_07312	Kaiserslautern	http://www.wikidata.org/entity/Q3758
+46677	22078	24599	7313	http://world.squirrel.link/ontology#district_07313	Landau in der Pfalz	http://www.wikidata.org/entity/Q7052
+171061	85820	85241	7314	http://world.squirrel.link/ontology#district_07314	Ludwigshafen am Rhein	http://www.wikidata.org/entity/Q2910
+217118	105599	111519	7315	http://world.squirrel.link/ontology#district_07315	Mainz	http://www.wikidata.org/entity/Q1720
+53148	25955	27193	7316	http://world.squirrel.link/ontology#district_07316	Neustadt an der Weinstraße	http://www.wikidata.org/entity/Q4149
+40403	19780	20623	7317	http://world.squirrel.link/ontology#district_07317	Pirmasens	http://www.wikidata.org/entity/Q14849
+50378	24363	26015	7318	http://world.squirrel.link/ontology#district_07318	Speyer	http://www.wikidata.org/entity/Q6829
+83330	41080	42250	7319	http://world.squirrel.link/ontology#district_07319	Worms	http://www.wikidata.org/entity/Q3852
+34209	16954	17255	7320	http://world.squirrel.link/ontology#district_07320	Zweibrücken	http://www.wikidata.org/entity/Q16017
+129244	64389	64855	7331	http://world.squirrel.link/ontology#district_07331	Alzey-Worms	http://www.wikidata.org/entity/Q8566
+132660	64838	67822	7332	http://world.squirrel.link/ontology#district_07332	Bad Dürkheim	http://www.wikidata.org/entity/Q8557
+75101	37194	37907	7333	http://world.squirrel.link/ontology#district_07333	Donnersbergkreis	http://www.wikidata.org/entity/Q8564
+129075	64379	64696	7334	http://world.squirrel.link/ontology#district_07334	Germersheim	http://www.wikidata.org/entity/Q8543
+106057	52135	53922	7335	http://world.squirrel.link/ontology#district_07335	Kaiserslautern	http://www.wikidata.org/entity/Q8559
+70526	35052	35474	7336	http://world.squirrel.link/ontology#district_07336	Kusel	http://www.wikidata.org/entity/Q8562
+110356	54441	55915	7337	http://world.squirrel.link/ontology#district_07337	Südliche Weinstraße	http://www.wikidata.org/entity/Q8551
+154201	76030	78171	7338	http://world.squirrel.link/ontology#district_07338	Rhein-Pfalz-Kreis	http://www.wikidata.org/entity/Q8554
+210889	104015	106874	7339	http://world.squirrel.link/ontology#district_07339	Mainz-Bingen	http://www.wikidata.org/entity/Q8569
+95113	46916	48197	7340	http://world.squirrel.link/ontology#district_07340	Südwestpfalz	http://www.wikidata.org/entity/Q8552
+634830	317139	317691	8111	http://world.squirrel.link/ontology#district_08111	Stuttgart	http://www.wikidata.org/entity/Q1022
+391640	194989	196651	8115	http://world.squirrel.link/ontology#district_08115	Böblingen	http://www.wikidata.org/entity/Q8536
+533859	266783	267076	8116	http://world.squirrel.link/ontology#district_08116	Esslingen	http://www.wikidata.org/entity/Q8533
+257253	128093	129160	8117	http://world.squirrel.link/ontology#district_08117	Göppingen	http://www.wikidata.org/entity/Q8525
+543984	269961	274023	8118	http://world.squirrel.link/ontology#district_08118	Ludwigsburg	http://www.wikidata.org/entity/Q8541
+426158	210861	215297	8119	http://world.squirrel.link/ontology#district_08119	Rems-Murr-Kreis	http://www.wikidata.org/entity/Q8528
+125960	63527	62433	8121	http://world.squirrel.link/ontology#district_08121	Heilbronn	http://www.wikidata.org/entity/Q715
+343068	172382	170686	8125	http://world.squirrel.link/ontology#district_08125	Heilbronn	http://www.wikidata.org/entity/Q7166
+112010	56550	55460	8126	http://world.squirrel.link/ontology#district_08126	Hohenlohekreis	http://www.wikidata.org/entity/Q8518
+195861	98314	97547	8127	http://world.squirrel.link/ontology#district_08127	Schwäbisch Hall	http://www.wikidata.org/entity/Q8520
+132321	65923	66398	8128	http://world.squirrel.link/ontology#district_08128	Main-Tauber-Kreis	http://www.wikidata.org/entity/Q8517
+132472	66092	66380	8135	http://world.squirrel.link/ontology#district_08135	Heidenheim	http://www.wikidata.org/entity/Q8523
+314002	156480	157522	8136	http://world.squirrel.link/ontology#district_08136	Ostalbkreis	http://www.wikidata.org/entity/Q8522
+55123	26442	28681	8211	http://world.squirrel.link/ontology#district_08211	Baden-Baden	http://www.wikidata.org/entity/Q4100
+313092	160429	152663	8212	http://world.squirrel.link/ontology#district_08212	Karlsruhe	http://www.wikidata.org/entity/Q1040
+444232	221339	222893	8215	http://world.squirrel.link/ontology#district_08215	Karlsruhe	http://www.wikidata.org/entity/Q8178
+231018	114797	116221	8216	http://world.squirrel.link/ontology#district_08216	Rastatt	http://www.wikidata.org/entity/Q8182
+160355	77112	83243	8221	http://world.squirrel.link/ontology#district_08221	Heidelberg	http://www.wikidata.org/entity/Q2966
+309370	154273	155097	8222	http://world.squirrel.link/ontology#district_08222	Mannheim	http://www.wikidata.org/entity/Q2119
+143535	72057	71478	8225	http://world.squirrel.link/ontology#district_08225	Neckar-Odenwald-Kreis	http://www.wikidata.org/entity/Q8174
+547625	269317	278308	8226	http://world.squirrel.link/ontology#district_08226	Rhein-Neckar-Kreis	http://www.wikidata.org/entity/Q8177
+125542	61699	63843	8231	http://world.squirrel.link/ontology#district_08231	Pforzheim	http://www.wikidata.org/entity/Q3046
+158397	79514	78883	8235	http://world.squirrel.link/ontology#district_08235	Calw	http://www.wikidata.org/entity/Q8186
+198905	98744	100161	8236	http://world.squirrel.link/ontology#district_08236	Enzkreis	http://www.wikidata.org/entity/Q8184
+117935	58898	59037	8237	http://world.squirrel.link/ontology#district_08237	Freudenstadt	http://www.wikidata.org/entity/Q8189
+230241	109829	120412	8311	http://world.squirrel.link/ontology#district_08311	Freiburg im Breisgau	http://www.wikidata.org/entity/Q2833
+262795	129641	133154	8315	http://world.squirrel.link/ontology#district_08315	Breisgau-Hochschwarzwald	http://www.wikidata.org/entity/Q8195
+165383	81772	83611	8316	http://world.squirrel.link/ontology#district_08316	Emmendingen	http://www.wikidata.org/entity/Q8193
+429479	214221	215258	8317	http://world.squirrel.link/ontology#district_08317	Ortenaukreis	http://www.wikidata.org/entity/Q8191
+139455	69767	69688	8325	http://world.squirrel.link/ontology#district_08325	Rottweil	http://www.wikidata.org/entity/Q8211
+212381	105542	106839	8326	http://world.squirrel.link/ontology#district_08326	Schwarzwald-Baar-Kreis	http://www.wikidata.org/entity/Q8203
+140152	70452	69700	8327	http://world.squirrel.link/ontology#district_08327	Tuttlingen	http://www.wikidata.org/entity/Q8208
+285325	139046	146279	8335	http://world.squirrel.link/ontology#district_08335	Konstanz	http://www.wikidata.org/entity/Q8206
+228639	111981	116658	8336	http://world.squirrel.link/ontology#district_08336	Lörrach	http://www.wikidata.org/entity/Q8198
+170619	84587	86032	8337	http://world.squirrel.link/ontology#district_08337	Waldshut	http://www.wikidata.org/entity/Q8200
+286748	142232	144516	8415	http://world.squirrel.link/ontology#district_08415	Reutlingen	http://www.wikidata.org/entity/Q8217
+227331	110795	116536	8416	http://world.squirrel.link/ontology#district_08416	Tübingen	http://www.wikidata.org/entity/Q8214
+188935	93808	95127	8417	http://world.squirrel.link/ontology#district_08417	Zollernalbkreis	http://www.wikidata.org/entity/Q8233
+126329	62660	63669	8421	http://world.squirrel.link/ontology#district_08421	Ulm	http://www.wikidata.org/entity/Q3012
+196047	99041	97006	8425	http://world.squirrel.link/ontology#district_08425	Alb-Donau-Kreis	http://www.wikidata.org/entity/Q8221
+199742	100634	99108	8426	http://world.squirrel.link/ontology#district_08426	Biberach	http://www.wikidata.org/entity/Q8223
+216227	106544	109683	8435	http://world.squirrel.link/ontology#district_08435	Bodenseekreis	http://www.wikidata.org/entity/Q8228
+284285	141777	142508	8436	http://world.squirrel.link/ontology#district_08436	Ravensburg	http://www.wikidata.org/entity/Q8225
+130873	65649	65224	8437	http://world.squirrel.link/ontology#district_08437	Sigmaringen	http://www.wikidata.org/entity/Q8230
+136981	69252	67729	9161	http://world.squirrel.link/ontology#district_09161	Ingolstadt	http://www.wikidata.org/entity/Q3004
+1471508	717308	754200	9162	http://world.squirrel.link/ontology#district_09162	München	http://www.wikidata.org/entity/Q1726
+63324	31321	32003	9163	http://world.squirrel.link/ontology#district_09163	Rosenheim	http://www.wikidata.org/entity/Q4007
+111210	54942	56268	9171	http://world.squirrel.link/ontology#district_09171	Altötting	http://www.wikidata.org/entity/Q10533
+105722	52007	53715	9172	http://world.squirrel.link/ontology#district_09172	Berchtesgadener Land	http://www.wikidata.org/entity/Q10530
+127227	62731	64496	9173	http://world.squirrel.link/ontology#district_09173	Bad Tölz-Wolfratshausen	http://www.wikidata.org/entity/Q10522
+153884	77120	76764	9174	http://world.squirrel.link/ontology#district_09174	Dachau	http://www.wikidata.org/entity/Q10500
+142142	70972	71170	9175	http://world.squirrel.link/ontology#district_09175	Ebersberg	http://www.wikidata.org/entity/Q10541
+132341	67325	65016	9176	http://world.squirrel.link/ontology#district_09176	Eichstätt	http://www.wikidata.org/entity/Q10491
+137660	69367	68293	9177	http://world.squirrel.link/ontology#district_09177	Erding	http://www.wikidata.org/entity/Q10539
+179116	91393	87723	9178	http://world.squirrel.link/ontology#district_09178	Freising	http://www.wikidata.org/entity/Q10497
+219320	107686	111634	9179	http://world.squirrel.link/ontology#district_09179	Fürstenfeldbruck	http://www.wikidata.org/entity/Q10502
+88467	42969	45498	9180	http://world.squirrel.link/ontology#district_09180	Garmisch-Partenkirchen	http://www.wikidata.org/entity/Q10518
+120071	60077	59994	9181	http://world.squirrel.link/ontology#district_09181	Landsberg am Lech	http://www.wikidata.org/entity/Q10507
+99726	48870	50856	9182	http://world.squirrel.link/ontology#district_09182	Miesbach	http://www.wikidata.org/entity/Q10523
+115250	58360	56890	9183	http://world.squirrel.link/ontology#district_09183	Mühldorf a. Inn	http://www.wikidata.org/entity/Q10537
+348871	173601	175270	9184	http://world.squirrel.link/ontology#district_09184	München	http://www.wikidata.org/entity/Q10544
+96680	48679	48001	9185	http://world.squirrel.link/ontology#district_09185	Neuburg-Schrobenhausen	http://www.wikidata.org/entity/Q10493
+127151	64639	62512	9186	http://world.squirrel.link/ontology#district_09186	Pfaffenhofen a.d. Ilm	http://www.wikidata.org/entity/Q10496
+260983	129253	131730	9187	http://world.squirrel.link/ontology#district_09187	Rosenheim	http://www.wikidata.org/entity/Q10526
+136092	66020	70072	9188	http://world.squirrel.link/ontology#district_09188	Starnberg	http://www.wikidata.org/entity/Q10504
+177089	87564	89525	9189	http://world.squirrel.link/ontology#district_09189	Traunstein	http://www.wikidata.org/entity/Q10528
+135348	67321	68027	9190	http://world.squirrel.link/ontology#district_09190	Weilheim-Schongau	http://www.wikidata.org/entity/Q10516
+72404	35403	37001	9261	http://world.squirrel.link/ontology#district_09261	Landshut	http://www.wikidata.org/entity/Q3974
+52469	25344	27125	9262	http://world.squirrel.link/ontology#district_09262	Passau	http://www.wikidata.org/entity/Q4190
+47794	24117	23677	9263	http://world.squirrel.link/ontology#district_09263	Straubing	http://www.wikidata.org/entity/Q7027
+119326	59547	59779	9271	http://world.squirrel.link/ontology#district_09271	Deggendorf	http://www.wikidata.org/entity/Q10485
+78355	39103	39252	9272	http://world.squirrel.link/ontology#district_09272	Freyung-Grafenau	http://www.wikidata.org/entity/Q10487
+122258	62137	60121	9273	http://world.squirrel.link/ontology#district_09273	Kelheim	http://www.wikidata.org/entity/Q10474
+158698	80519	78179	9274	http://world.squirrel.link/ontology#district_09274	Landshut	http://www.wikidata.org/entity/Q10475
+192043	95471	96572	9275	http://world.squirrel.link/ontology#district_09275	Passau	http://www.wikidata.org/entity/Q10489
+77656	38745	38911	9276	http://world.squirrel.link/ontology#district_09276	Regen	http://www.wikidata.org/entity/Q10483
+120659	60346	60313	9277	http://world.squirrel.link/ontology#district_09277	Rottal-Inn	http://www.wikidata.org/entity/Q10477
+100649	50627	50022	9278	http://world.squirrel.link/ontology#district_09278	Straubing-Bogen	http://www.wikidata.org/entity/Q10482
+96217	49450	46767	9279	http://world.squirrel.link/ontology#district_09279	Dingolfing-Landau	http://www.wikidata.org/entity/Q10480
+41970	20673	21297	9361	http://world.squirrel.link/ontology#district_09361	Amberg	http://www.wikidata.org/entity/Q7042
+152610	74225	78385	9362	http://world.squirrel.link/ontology#district_09362	Regensburg	http://www.wikidata.org/entity/Q2978
+42520	20542	21978	9363	http://world.squirrel.link/ontology#district_09363	Weiden i.d. OPf.	http://www.wikidata.org/entity/Q14803
+103109	51665	51444	9371	http://world.squirrel.link/ontology#district_09371	Amberg-Sulzbach	http://www.wikidata.org/entity/Q10421
+127882	64248	63634	9372	http://world.squirrel.link/ontology#district_09372	Cham	http://www.wikidata.org/entity/Q10424
+133561	67499	66062	9373	http://world.squirrel.link/ontology#district_09373	Neumarkt i.d. OPf.	http://www.wikidata.org/entity/Q10427
+94352	46943	47409	9374	http://world.squirrel.link/ontology#district_09374	Neustadt a.d. Waldnaab	http://www.wikidata.org/entity/Q10420
+193572	97081	96491	9375	http://world.squirrel.link/ontology#district_09375	Regensburg	http://www.wikidata.org/entity/Q10429
+147189	73964	73225	9376	http://world.squirrel.link/ontology#district_09376	Schwandorf	http://www.wikidata.org/entity/Q10423
+72504	36121	36383	9377	http://world.squirrel.link/ontology#district_09377	Tirschenreuth	http://www.wikidata.org/entity/Q10419
+77592	37464	40128	9461	http://world.squirrel.link/ontology#district_09461	Bamberg	http://www.wikidata.org/entity/Q3936
+74657	36469	38188	9462	http://world.squirrel.link/ontology#district_09462	Bayreuth	http://www.wikidata.org/entity/Q3923
+41249	20162	21087	9463	http://world.squirrel.link/ontology#district_09463	Coburg	http://www.wikidata.org/entity/Q14821
+45930	22098	23832	9464	http://world.squirrel.link/ontology#district_09464	Hof	http://www.wikidata.org/entity/Q6938
+147086	73725	73361	9471	http://world.squirrel.link/ontology#district_09471	Bamberg	http://www.wikidata.org/entity/Q10444
+103656	51310	52346	9472	http://world.squirrel.link/ontology#district_09472	Bayreuth	http://www.wikidata.org/entity/Q10439
+86906	42912	43994	9473	http://world.squirrel.link/ontology#district_09473	Coburg	http://www.wikidata.org/entity/Q10440
+116099	57703	58396	9474	http://world.squirrel.link/ontology#district_09474	Forchheim	http://www.wikidata.org/entity/Q10445
+95311	46646	48665	9475	http://world.squirrel.link/ontology#district_09475	Hof	http://www.wikidata.org/entity/Q10431
+67135	33184	33951	9476	http://world.squirrel.link/ontology#district_09476	Kronach	http://www.wikidata.org/entity/Q10434
+71845	35345	36500	9477	http://world.squirrel.link/ontology#district_09477	Kulmbach	http://www.wikidata.org/entity/Q10436
+66838	33027	33811	9478	http://world.squirrel.link/ontology#district_09478	Lichtenfels	http://www.wikidata.org/entity/Q10442
+73178	35718	37460	9479	http://world.squirrel.link/ontology#district_09479	Wunsiedel i. Fichtelgebirge	http://www.wikidata.org/entity/Q10432
+41847	20048	21799	9561	http://world.squirrel.link/ontology#district_09561	Ansbach	http://www.wikidata.org/entity/Q14859
+111962	55864	56098	9562	http://world.squirrel.link/ontology#district_09562	Erlangen	http://www.wikidata.org/entity/Q3126
+127748	62603	65145	9563	http://world.squirrel.link/ontology#district_09563	Fürth	http://www.wikidata.org/entity/Q3075
+518365	252807	265558	9564	http://world.squirrel.link/ontology#district_09564	Nürnberg	http://www.wikidata.org/entity/Q2090
+40792	19895	20897	9565	http://world.squirrel.link/ontology#district_09565	Schwabach	http://www.wikidata.org/entity/Q14889
+183949	92450	91499	9571	http://world.squirrel.link/ontology#district_09571	Ansbach	http://www.wikidata.org/entity/Q10454
+136271	67763	68508	9572	http://world.squirrel.link/ontology#district_09572	Erlangen-Höchstadt	http://www.wikidata.org/entity/Q10447
+117387	57064	60323	9573	http://world.squirrel.link/ontology#district_09573	Fürth	http://www.wikidata.org/entity/Q10455
+170365	83946	86419	9574	http://world.squirrel.link/ontology#district_09574	Nürnberger Land	http://www.wikidata.org/entity/Q10449
+100364	50331	50033	9575	http://world.squirrel.link/ontology#district_09575	Neustadt a.d. Aisch-Bad Windsheim	http://www.wikidata.org/entity/Q10456
+126958	63206	63752	9576	http://world.squirrel.link/ontology#district_09576	Roth	http://www.wikidata.org/entity/Q10451
+94393	47093	47300	9577	http://world.squirrel.link/ontology#district_09577	Weißenburg-Gunzenhausen	http://www.wikidata.org/entity/Q10453
+70527	34316	36211	9661	http://world.squirrel.link/ontology#district_09661	Aschaffenburg	http://www.wikidata.org/entity/Q3942
+54032	26553	27479	9662	http://world.squirrel.link/ontology#district_09662	Schweinfurt	http://www.wikidata.org/entity/Q4126
+127880	61151	66729	9663	http://world.squirrel.link/ontology#district_09663	Würzburg	http://www.wikidata.org/entity/Q2999
+174208	86570	87638	9671	http://world.squirrel.link/ontology#district_09671	Aschaffenburg	http://www.wikidata.org/entity/Q10471
+103218	50865	52353	9672	http://world.squirrel.link/ontology#district_09672	Bad Kissingen	http://www.wikidata.org/entity/Q10466
+79690	39677	40013	9673	http://world.squirrel.link/ontology#district_09673	Rhön-Grabfeld	http://www.wikidata.org/entity/Q10465
+84599	42468	42131	9674	http://world.squirrel.link/ontology#district_09674	Haßberge	http://www.wikidata.org/entity/Q10462
+90909	45791	45118	9675	http://world.squirrel.link/ontology#district_09675	Kitzingen	http://www.wikidata.org/entity/Q10459
+128756	64190	64566	9676	http://world.squirrel.link/ontology#district_09676	Miltenberg	http://www.wikidata.org/entity/Q10472
+126365	62953	63412	9677	http://world.squirrel.link/ontology#district_09677	Main-Spessart	http://www.wikidata.org/entity/Q10469
+115106	57768	57338	9678	http://world.squirrel.link/ontology#district_09678	Schweinfurt	http://www.wikidata.org/entity/Q10461
+161834	80594	81240	9679	http://world.squirrel.link/ontology#district_09679	Würzburg	http://www.wikidata.org/entity/Q10458
+295135	145158	149977	9761	http://world.squirrel.link/ontology#district_09761	Augsburg	http://www.wikidata.org/entity/Q2749
+43893	21610	22283	9762	http://world.squirrel.link/ontology#district_09762	Kaufbeuren	http://www.wikidata.org/entity/Q14805
+68907	34141	34766	9763	http://world.squirrel.link/ontology#district_09763	Kempten (Allgäu)	http://www.wikidata.org/entity/Q3994
+43837	21710	22127	9764	http://world.squirrel.link/ontology#district_09764	Memmingen	http://www.wikidata.org/entity/Q14825
+133596	66651	66945	9771	http://world.squirrel.link/ontology#district_09771	Aichach-Friedberg	http://www.wikidata.org/entity/Q10415
+251534	124807	126727	9772	http://world.squirrel.link/ontology#district_09772	Augsburg	http://www.wikidata.org/entity/Q10414
+96021	48135	47886	9773	http://world.squirrel.link/ontology#district_09773	Dillingen a.d. Donau	http://www.wikidata.org/entity/Q10417
+125747	63576	62171	9774	http://world.squirrel.link/ontology#district_09774	Günzburg	http://www.wikidata.org/entity/Q10412
+174200	86470	87730	9775	http://world.squirrel.link/ontology#district_09775	Neu-Ulm	http://www.wikidata.org/entity/Q10410
+81669	40285	41384	9776	http://world.squirrel.link/ontology#district_09776	Lindau (Bodensee)	http://www.wikidata.org/entity/Q10401
+140316	69968	70348	9777	http://world.squirrel.link/ontology#district_09777	Ostallgäu	http://www.wikidata.org/entity/Q10405
+144041	72608	71433	9778	http://world.squirrel.link/ontology#district_09778	Unterallgäu	http://www.wikidata.org/entity/Q10408
+133496	67821	65675	9779	http://world.squirrel.link/ontology#district_09779	Donau-Ries	http://www.wikidata.org/entity/Q10418
+155362	76577	78785	9780	http://world.squirrel.link/ontology#district_09780	Oberallgäu	http://www.wikidata.org/entity/Q10402
+329708	162003	167705	10041	http://world.squirrel.link/ontology#district_10041	Regionalverband Saarbrücken	http://www.wikidata.org/entity/Q6805
+103366	51108	52258	10042	http://world.squirrel.link/ontology#district_10042	Merzig-Wadern	http://www.wikidata.org/entity/Q6802
+132206	64915	67291	10043	http://world.squirrel.link/ontology#district_10043	Neunkirchen	http://www.wikidata.org/entity/Q6799
+195201	95550	99651	10044	http://world.squirrel.link/ontology#district_10044	Saarlouis	http://www.wikidata.org/entity/Q6794
+142631	69385	73246	10045	http://world.squirrel.link/ontology#district_10045	Saarpfalz-Kreis	http://www.wikidata.org/entity/Q6793
+87397	43198	44199	10046	http://world.squirrel.link/ontology#district_10046	St. Wendel	http://www.wikidata.org/entity/Q6789
+3644826	1792801	1852025	11000	http://world.squirrel.link/ontology#district_11000	Berlin	http://www.wikidata.org/entity/Q64
+72124	35617	36507	12051	http://world.squirrel.link/ontology#district_12051	Brandenburg an der Havel	http://www.wikidata.org/entity/Q3931
+100219	49201	51018	12052	http://world.squirrel.link/ontology#district_12052	Cottbus	http://www.wikidata.org/entity/Q3214
+57873	28023	29850	12053	http://world.squirrel.link/ontology#district_12053	Frankfurt (Oder)	http://www.wikidata.org/entity/Q4024
+178089	86179	91910	12054	http://world.squirrel.link/ontology#district_12054	Potsdam	http://www.wikidata.org/entity/Q1711
+182760	90615	92145	12060	http://world.squirrel.link/ontology#district_12060	Barnim	http://www.wikidata.org/entity/Q6115
+169067	83943	85124	12061	http://world.squirrel.link/ontology#district_12061	Dahme-Spreewald	http://www.wikidata.org/entity/Q6173
+102638	50832	51806	12062	http://world.squirrel.link/ontology#district_12062	Elbe-Elster	http://www.wikidata.org/entity/Q6152
+161909	80121	81788	12063	http://world.squirrel.link/ontology#district_12063	Havelland	http://www.wikidata.org/entity/Q6139
+194328	96483	97845	12064	http://world.squirrel.link/ontology#district_12064	Märkisch-Oderland	http://www.wikidata.org/entity/Q6181
+211249	104111	107138	12065	http://world.squirrel.link/ontology#district_12065	Oberhavel	http://www.wikidata.org/entity/Q6119
+110476	54307	56169	12066	http://world.squirrel.link/ontology#district_12066	Oberspreewald-Lausitz	http://www.wikidata.org/entity/Q6156
+178658	87681	90977	12067	http://world.squirrel.link/ontology#district_12067	Oder-Spree	http://www.wikidata.org/entity/Q6178
+99078	49331	49747	12068	http://world.squirrel.link/ontology#district_12068	Ostprignitz-Ruppin	http://www.wikidata.org/entity/Q6125
+214664	106258	108406	12069	http://world.squirrel.link/ontology#district_12069	Potsdam-Mittelmark	http://www.wikidata.org/entity/Q6142
+76508	37977	38531	12070	http://world.squirrel.link/ontology#district_12070	Prignitz	http://www.wikidata.org/entity/Q6132
+114429	56269	58160	12071	http://world.squirrel.link/ontology#district_12071	Spree-Neiße	http://www.wikidata.org/entity/Q6165
+168296	83842	84454	12072	http://world.squirrel.link/ontology#district_12072	Teltow-Fläming	http://www.wikidata.org/entity/Q6146
+119552	58670	60882	12073	http://world.squirrel.link/ontology#district_12073	Uckermark	http://www.wikidata.org/entity/Q6109
+208886	102911	105975	13003	http://world.squirrel.link/ontology#district_13003	Rostock	http://www.wikidata.org/entity/Q2861
+95818	46054	49764	13004	http://world.squirrel.link/ontology#district_13004	Schwerin	http://www.wikidata.org/entity/Q1709
+259130	127108	132022	13071	http://world.squirrel.link/ontology#district_13071	Mecklenburgische Seenplatte	http://www.wikidata.org/entity/Q2902
+215113	107111	108002	13072	http://world.squirrel.link/ontology#district_13072	Rostock	http://www.wikidata.org/entity/Q2898
+224684	110477	114207	13073	http://world.squirrel.link/ontology#district_13073	Vorpommern-Rügen	http://www.wikidata.org/entity/Q2909
+156729	77899	78830	13074	http://world.squirrel.link/ontology#district_13074	Nordwestmecklenburg	http://www.wikidata.org/entity/Q2876
+236697	115881	120816	13075	http://world.squirrel.link/ontology#district_13075	Vorpommern-Greifswald	http://www.wikidata.org/entity/Q2917
+212618	106198	106420	13076	http://world.squirrel.link/ontology#district_13076	Ludwigslust-Parchim	http://www.wikidata.org/entity/Q2905
+247237	122248	124989	14511	http://world.squirrel.link/ontology#district_14511	Chemnitz	http://www.wikidata.org/entity/Q2795
+337696	165218	172478	14521	http://world.squirrel.link/ontology#district_14521	Erzgebirgskreis	http://www.wikidata.org/entity/Q6339
+306185	152310	153875	14522	http://world.squirrel.link/ontology#district_14522	Mittelsachsen	http://www.wikidata.org/entity/Q6328
+227796	111055	116741	14523	http://world.squirrel.link/ontology#district_14523	Vogtlandkreis	http://www.wikidata.org/entity/Q6337
+317531	154978	162553	14524	http://world.squirrel.link/ontology#district_14524	Zwickau	http://www.wikidata.org/entity/Q6330
+554649	276729	277920	14612	http://world.squirrel.link/ontology#district_14612	Dresden	http://www.wikidata.org/entity/Q1731
+300880	148502	152378	14625	http://world.squirrel.link/ontology#district_14625	Bautzen	http://www.wikidata.org/entity/Q571947
+254894	124905	129989	14626	http://world.squirrel.link/ontology#district_14626	Görlitz	http://www.wikidata.org/entity/Q6317
+242165	119304	122861	14627	http://world.squirrel.link/ontology#district_14627	Meißen	http://www.wikidata.org/entity/Q6313
+245611	121219	124392	14628	http://world.squirrel.link/ontology#district_14628	Sächsische Schweiz-Osterzgebirge	http://www.wikidata.org/entity/Q6323
+587857	288553	299304	14713	http://world.squirrel.link/ontology#district_14713	Leipzig	http://www.wikidata.org/entity/Q2079
+257763	126380	131383	14729	http://world.squirrel.link/ontology#district_14729	Leipzig	http://www.wikidata.org/entity/Q6308
+197673	98218	99455	14730	http://world.squirrel.link/ontology#district_14730	Nordsachsen	http://www.wikidata.org/entity/Q6301
+81237	39457	41780	15001	http://world.squirrel.link/ontology#district_15001	Dessau-Roßlau	http://www.wikidata.org/entity/Q3828
+239257	115713	123544	15002	http://world.squirrel.link/ontology#district_15002	Halle (Saale)	http://www.wikidata.org/entity/Q2814
+238697	117828	120869	15003	http://world.squirrel.link/ontology#district_15003	Magdeburg	http://www.wikidata.org/entity/Q1733
+83765	41748	42017	15081	http://world.squirrel.link/ontology#district_15081	Altmarkkreis Salzwedel	http://www.wikidata.org/entity/Q6061
+159854	78326	81528	15082	http://world.squirrel.link/ontology#district_15082	Anhalt-Bitterfeld	http://www.wikidata.org/entity/Q6071
+171734	85660	86074	15083	http://world.squirrel.link/ontology#district_15083	Börde	http://www.wikidata.org/entity/Q6064
+180190	89353	90837	15084	http://world.squirrel.link/ontology#district_15084	Burgenlandkreis	http://www.wikidata.org/entity/Q6102
+214446	105101	109345	15085	http://world.squirrel.link/ontology#district_15085	Harz	http://www.wikidata.org/entity/Q6087
+89928	44781	45147	15086	http://world.squirrel.link/ontology#district_15086	Jerichower Land	http://www.wikidata.org/entity/Q6068
+136249	66992	69257	15087	http://world.squirrel.link/ontology#district_15087	Mansfeld-Südharz	http://www.wikidata.org/entity/Q6092
+184582	91361	93221	15088	http://world.squirrel.link/ontology#district_15088	Saalekreis	http://www.wikidata.org/entity/Q6098
+190560	93148	97412	15089	http://world.squirrel.link/ontology#district_15089	Salzlandkreis	http://www.wikidata.org/entity/Q6081
+111982	55278	56704	15090	http://world.squirrel.link/ontology#district_15090	Stendal	http://www.wikidata.org/entity/Q6057
+125840	61933	63907	15091	http://world.squirrel.link/ontology#district_15091	Wittenberg	http://www.wikidata.org/entity/Q6075
+213699	103920	109779	16051	http://world.squirrel.link/ontology#district_16051	Erfurt	http://www.wikidata.org/entity/Q1729
+94152	45517	48635	16052	http://world.squirrel.link/ontology#district_16052	Gera	http://www.wikidata.org/entity/Q3750
+111407	55665	55742	16053	http://world.squirrel.link/ontology#district_16053	Jena	http://www.wikidata.org/entity/Q3150
+34835	16960	17875	16054	http://world.squirrel.link/ontology#district_16054	Suhl	http://www.wikidata.org/entity/Q14891
+65090	31655	33435	16055	http://world.squirrel.link/ontology#district_16055	Weimar	http://www.wikidata.org/entity/Q3955
+42370	20874	21496	16056	http://world.squirrel.link/ontology#district_16056	Eisenach	http://www.wikidata.org/entity/Q7070
+100380	50364	50016	16061	http://world.squirrel.link/ontology#district_16061	Eichsfeld	http://www.wikidata.org/entity/Q7861
+83822	41477	42345	16062	http://world.squirrel.link/ontology#district_16062	Nordhausen	http://www.wikidata.org/entity/Q7858
+123025	61525	61500	16063	http://world.squirrel.link/ontology#district_16063	Wartburgkreis	http://www.wikidata.org/entity/Q7866
+102912	51119	51793	16064	http://world.squirrel.link/ontology#district_16064	Unstrut-Hainich-Kreis	http://www.wikidata.org/entity/Q7864
+75009	37274	37735	16065	http://world.squirrel.link/ontology#district_16065	Kyffhäuserkreis	http://www.wikidata.org/entity/Q7862
+122347	61186	61161	16066	http://world.squirrel.link/ontology#district_16066	Schmalkalden-Meiningen	http://www.wikidata.org/entity/Q7871
+135452	67468	67984	16067	http://world.squirrel.link/ontology#district_16067	Gotha	http://www.wikidata.org/entity/Q7869
+69655	34762	34893	16068	http://world.squirrel.link/ontology#district_16068	Sömmerda	http://www.wikidata.org/entity/Q7865
+63553	31766	31787	16069	http://world.squirrel.link/ontology#district_16069	Hildburghausen	http://www.wikidata.org/entity/Q7872
+108742	54633	54109	16070	http://world.squirrel.link/ontology#district_16070	Ilm-Kreis	http://www.wikidata.org/entity/Q7878
+81947	40645	41302	16071	http://world.squirrel.link/ontology#district_16071	Weimarer Land	http://www.wikidata.org/entity/Q7879
+56196	27673	28523	16072	http://world.squirrel.link/ontology#district_16072	Sonneberg	http://www.wikidata.org/entity/Q7875
+106356	52388	53968	16073	http://world.squirrel.link/ontology#district_16073	Saalfeld-Rudolstadt	http://www.wikidata.org/entity/Q7882
+83051	41360	41691	16074	http://world.squirrel.link/ontology#district_16074	Saale-Holzland-Kreis	http://www.wikidata.org/entity/Q7884
+80868	40119	40749	16075	http://world.squirrel.link/ontology#district_16075	Saale-Orla-Kreis	http://www.wikidata.org/entity/Q7883
+98159	48326	49833	16076	http://world.squirrel.link/ontology#district_16076	Greiz	http://www.wikidata.org/entity/Q7887
+90118	44138	45980	16077	http://world.squirrel.link/ontology#district_16077	Altenburger Land	http://www.wikidata.org/entity/Q7888
